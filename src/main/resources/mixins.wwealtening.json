@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"compatibilityLevel": "JAVA_8",
+	"package": "me.THEREALWWEFAN231.thealtening.mixin.mixins",
+	"refmap": "mixins.wwealtening.refmap.json",
+	"minVersion": "0",
+	"mixins": [
+	"MixinGuiMultiplayer",
+	"interfacemixin.InterfaceMixinMinecraft"
+	]
+}
