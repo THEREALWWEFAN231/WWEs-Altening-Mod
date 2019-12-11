@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "wwesaltening",
+  "version": "${version}",
+  "name": "WWEs' altening mod",
+  "description": "Allows you to use the altening by clicking the altening button on the multiplayer screen",
+  "authors": [
+    "THEREALWWEFAN231/IKnowImEZ"
+  ],  
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "me.THEREALWWEFAN231.thealtening.WWEsAltening"
+    ]
+  },
+  "mixins": [
+    "mixins.wwealtening.json"
+  ]
+}
