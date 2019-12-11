@@ -19,5 +19,5 @@ Secondly? If your using mac or linux you can use this mod to use The Altening
 ## Am i allowed to remove the wwe code?
 Yes, but you need to credit THEREALWWEFAN231 or WWE Client
 
-# Stuff
+## Stuff
 Yes some of the fields in the code "arent named correctly" i was planning it a different way but was to lazy to change their names
