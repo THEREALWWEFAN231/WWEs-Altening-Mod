@@ -13,7 +13,7 @@ Free: Go to the multiplayer screen and click the altening button, paste the acco
 Paid: Go to the multiplayer screen and click the altening button, go to [The Altenings account section](https://panel.thealtening.com/#account) copy your API Token, paste it in the API Token field then click the Check API Token button. If it works you will see one of the buttons change to a generate button and you can then generate accounts(note the API Token does not save and you need to readd it everytime you start minecraft)
 
 ## Why use this instead of the authenticator
-Well firstly you can change accounts without switching minecraft
+Well firstly you can change accounts without switching minecraft<br/>
 Secondly? If your using mac or linux you can use this mod to use The Altening
 
 ## Am i allowed to remove the wwe code?
